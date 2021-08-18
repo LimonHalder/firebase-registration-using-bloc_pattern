@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547567448828",
+    "project_id": "fir-registration-by-bloc",
+    "storage_bucket": "fir-registration-by-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547567448828:android:b63a5fc2e72489f82b1d79",
+        "android_client_info": {
+          "package_name": "com.example.firebase_registration_using_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547567448828-dd469iriaqqo9r6e0r9uriebv7n5df2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8gk0-NTpdTO2TPSPbIkCbnwx3fOK2g70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547567448828-dd469iriaqqo9r6e0r9uriebv7n5df2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
